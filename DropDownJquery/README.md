@@ -1,1 +1,1 @@
-DropDown list show and hide written with Jquery. Excersie from CodeCademy
+DropDown list show and hide written with JQuery. Excersie from CodeCademy
