@@ -84,9 +84,7 @@ body {
     display: inline;
   }
   
-  #fonts {
+  #fonts, #weight {
     margin-left: 4px;
   }
   
-  #weight {
-  }
