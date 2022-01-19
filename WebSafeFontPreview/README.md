@@ -1,0 +1,1 @@
+Simple app to preview different web safe fonts, sizes, and weights. Index.html and Styles.css was given , I wrote main.js code.
