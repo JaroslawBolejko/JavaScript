@@ -19,6 +19,9 @@ function message () {
 let mixMessage = message();
 $(document).ready(() => {
   $('.btn').on('click',() => {
-        $('#preview').html(mixMessage);
+        $('.preview').html(mixMessage);
  });
+  $('.refresh').on('click',() => {
+    location.reload();
+  })
 });
